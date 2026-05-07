@@ -1,0 +1,19 @@
+[
+    {
+  "name": "Aryan",
+  "age": 21,
+  "course": "Polytechnic"
+  },
+
+   {
+    "name":"Prince",
+    "age":20,
+    "course": "Bca"
+   },    
+
+   {
+    "name":"piyush",
+    "age":20,
+    "course":"Bca"
+   }
+]
